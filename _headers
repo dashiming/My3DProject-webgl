@@ -1,2 +1,1 @@
-/Build/*.gz
-  Content-Encoding: gzip
+# No gzip headers needed now
